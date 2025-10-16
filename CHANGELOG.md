@@ -205,7 +205,7 @@ The store has been changed in how it works as we got a new giftcard provider whi
 Offerwall | Fixed incorrect offerwall and crate hunt messages.
 
 ## Removed
-- Ravendawn references acros the site as we no longer support purchases for this title.
+- Ravendawn references across the site as we no longer support purchases for this title.
 - The ability to purchase giftcards when havign a negative balance (whoops).
 ---
 

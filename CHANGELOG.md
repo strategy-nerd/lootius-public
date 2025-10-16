@@ -171,7 +171,7 @@ This update reflects our long-term design philosophy.
 We want the **core strategy** of the game to revolve around **how you prepare and equip your character** for different activities.  
 Your setup, and the risks you choose to take, should be a meaningful part of your decision-making — not just your stats or level.
 
-We’re also preparing for **new left-hand rings** and **future gear systems** that can affect multiple action types, not just combat or gathering.  
+We’re also preparing for **new rings** and **future gear systems** that can affect multiple action types, not just combat or gathering.  
 To make this possible, we needed a **consistent, predictable durability model** that works across all gear and activities.
 
 Behind the scenes, we’ve been **mapping out item stats, attributes, and gear progressions** across all current and future tiers.  
